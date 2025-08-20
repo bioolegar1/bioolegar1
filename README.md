@@ -12,12 +12,13 @@
 ---
 
 <br>
+<a href="https://github.com/bioolegar1/GeradordeSenhaMFA">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioolegar1&repo=GeradordeSenhaMFA&theme=tokyonight" />
+</a>
 <a href="https://github.com/bioolegar1/encurtaLink">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioolegar1&repo=encurtaLink&theme=tokyonight" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioolegar1&repo=encurtaLink&theme=tokyonight" />
 </a>
-<a href="https://github.com/bioolegar1/GeradordeSenhaMFA>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioolegar1&repo=GeradordeSenhaMFA&theme=tokyonight" />
-</a>
+
 <br>
 
 ---
