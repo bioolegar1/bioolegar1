@@ -29,6 +29,13 @@
 <a href="https://github.com/bioolegar1/dslist">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bioolegar1&repo=dslist&theme=tokyonight" />
 </a>
+<br>
+
+---
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bioolegar1&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 
